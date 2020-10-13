@@ -1,6 +1,6 @@
-title: Haoran Zhang
+title:      Haoran Zhang
 description: MS Computer Science @ University of Southern California
-# site_title: '@abhn - Abhishek Nagekar'
+site_title: 'Haoran Zhang'
 
 # Build settings
 markdown: kramdown
@@ -18,4 +18,4 @@ email: ricardo15222024@gmail.com
 profile_picture: assets/images/photo.jpg
 
 # Google Analytics ID
-google_analytics: 
+# google_analytics: 
