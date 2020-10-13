@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: 'https://www.youtube.com/watch?v=PiY70cgzECA&ab_channel=RicardoZhang',
             technologies: ['Angular', 'Node.js', 'Bootstrap4', 'GCP'],
             description: "eBay web application for searching and display items",
-            // categories: ['featured', 'webdev']
+            categories: ['featured', 'webdev']
         },
         {
             image: 'assets/images/ebayAPP.png',
@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: 'https://www.youtube.com/watch?v=kOQBjxlJ7-k&ab_channel=RicardoZhang',
             technologies: ['Android', 'Node.js', 'GCP'],
             description: "An Android application can help users search items in eBay",
-            // categories: ['featured', 'webdev']
+            categories: ['featured', 'webdev']
         },
 
         // {
