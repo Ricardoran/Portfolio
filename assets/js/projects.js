@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: 'https://www.youtube.com/watch?v=PiY70cgzECA&ab_channel=RicardoZhang',
             technologies: ['Angular', 'Node.js', 'Bootstrap4', 'GCP'],
             description: "eBay web application for searching and display items",
-            // categories: ['featured', 'webdev']
+            categories: ['featured', 'webdev']
         },
         {
             image: 'assets/images/ebayAPP.png',
@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: 'https://www.youtube.com/watch?v=kOQBjxlJ7-k&ab_channel=RicardoZhang',
             technologies: ['Android', 'Node.js', 'GCP'],
             description: "A modern Jekyll theme with grid frontpage, beautiful typography, mobile responsive, made with Semantic UI.",
-            // categories: ['featured', 'webdev']
+            categories: ['featured', 'webdev']
         },
 
         {
@@ -36,7 +36,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Android', 'OpenCV'],
             description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
-            // categories: ['featured', 'native']
+            categories: ['featured', 'native']
         },
 
         {
@@ -46,7 +46,7 @@ let render_projects = (slug) => {
             demo: 'https://www.nagekar.com/mpw',
             technologies: ['Semantic UI', 'CSS3'],
             description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
-            // categories: ['featured', 'security']
+            categories: ['featured', 'security']
         },
 
         {
@@ -56,7 +56,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python'],
             description: "Ever wondered how many times a URL has been shared on popular social networks?",
-            // categories: ['native']
+            categories: ['native']
         },
 
         {
@@ -66,7 +66,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['C++', 'Qt'],
             description: "Native GUI wrapper for GNU coreutils tool 'dd'",
-            // categories: ['native']
+            categories: ['native']
         },
 
         {
@@ -76,7 +76,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['python', 'flask'],
             description: "Web based status monitor/smart mirror, displays system stats, weather and more.",
-            // categories: ['webdev', 'diy']
+            categories: ['webdev', 'diy']
         },
 
         {
@@ -86,7 +86,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['python'],
             description: "Automate crawling of a website and find publicly open S3 buckets for takeover.",
-            // categories: ['native', 'security']
+            categories: ['native', 'security']
         },
 
         {
@@ -96,7 +96,7 @@ let render_projects = (slug) => {
             demo: 'https://elementary-jekyll.github.io/',
             technologies: ['Jekyll', 'CSS3'],
             description: "Elementary is a zero Javascript and minimal CSS ultra lightweight Jekyll theme for those of you who love simplicity.",
-            // categories: ['webdev']
+            categories: ['webdev']
         },
 
         {
@@ -106,7 +106,7 @@ let render_projects = (slug) => {
             demo: 'https://sootspirits.github.io',
             technologies: ['Jekyll', 'CSS3'],
             description: "A simple responsive two column Jekyll theme. Great for personal blog and basic portfolio website.",
-            // categories: ['webdev']
+            categories: ['webdev']
         },
 
         {
@@ -116,7 +116,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Python', 'Sockets'],
             description: "Simple terminal group chat based on native sockets using Python.",
-            // categories: ['native']
+            categories: ['native']
         },
 
         {
@@ -126,7 +126,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['DIY'],
             description: "Reusing a dead laptop's LCD panel as a secondary monitor.",
-            // categories: ['diy']
+            categories: ['diy']
         },
 
         {
@@ -136,7 +136,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['NextCloud', 'GnuPG'],
             description: "Self hosted encrypted cloud setup with Nextcloud and GnuPG.",
-            // categories: ['diy', 'security']
+            categories: ['diy', 'security']
         },
 
         {
@@ -146,7 +146,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['NextCloud', 'Duplicity'],
             description: "Create automated encrypted incremental backups of data. Sync everything securely to Google Cloud.",
-            // categories: ['diy', 'security']
+            categories: ['diy', 'security']
         },
 
         {
@@ -156,7 +156,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['FTP', 'DIY'],
             description: "Host a local cloud server with a Raspberry Pi and a spare hard disk. Access data instantaneously on any device on the network.",
-            // categories: ['diy']
+            categories: ['diy']
         },
 
         {
@@ -166,7 +166,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Electron', 'Javascript'],
             description: "A cross-platform desktop application that serves as a Wolfram Alpha query place and notes taker.",
-            // categories: ['native']
+            categories: ['native']
         },
     ]
 
