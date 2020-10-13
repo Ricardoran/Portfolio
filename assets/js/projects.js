@@ -29,25 +29,25 @@ let render_projects = (slug) => {
             categories: ['featured', 'webdev']
         },
 
-        // {
-        //     image: 'assets/images/collage.jpg',
-        //     link: 'https://github.com/abhn/Marvel',
-        //     title: 'Marvel',
-        //     demo: false,
-        //     technologies: ['Android', 'OpenCV'],
-        //     description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
-        //     categories: ['featured', 'native']
-        // },
+        {
+            image: 'assets/images/minesweeper.png',
+            link: 'https://www.youtube.com/watch?v=GPwhr4lXWCU&ab_channel=RicardoZhang',
+            title: 'Marvel',
+            demo: 'https: //www.youtube.com/watch?v=GPwhr4lXWCU&ab_channel=RicardoZhang',
+            technologies: ['Java'],
+            description: "Minesweeper game.",
+            categories: ['featured', 'native']
+        },
 
-        // {
-        //     image: 'assets/images/mpw.jpg',
-        //     link: 'https://github.com/abhn/mpw',
-        //     title: 'Master Password',
-        //     demo: 'https://www.nagekar.com/mpw',
-        //     technologies: ['Semantic UI', 'CSS3'],
-        //     description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
-        //     categories: ['featured', 'security']
-        // },
+        {
+            image: 'assets/images/snookme.png',
+            link: 'https://www.youtube.com/watch?v=t7aoR9PunpA&t=1s&ab_channel=RicardoZhang',
+            title: 'Master Password',
+            demo: 'https://www.youtube.com/watch?v=t7aoR9PunpA&t=1s&ab_channel=RicardoZhang',
+            technologies: ['OpenCv', 'Python'],
+            description: "Interactive pool game training system",
+            categories: ['featured', 'security']
+        },
 
         // {
         //     image: 'assets/images/social-share-count.jpeg',
