@@ -13,7 +13,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/ebayWeb.png',
             link: 'https://www.youtube.com/watch?v=PiY70cgzECA&ab_channel=RicardoZhang',
-            title: 'Catalog Search Web',
+            title: 'Catalog Search Web Application',
             demo: 'https://www.youtube.com/watch?v=PiY70cgzECA&ab_channel=RicardoZhang',
             technologies: ['Angular', 'Node.js', 'Bootstrap4', 'GCP'],
             description: "eBay web application for searching and display items",
