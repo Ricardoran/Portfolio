@@ -32,7 +32,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/minesweeper.png',
             link: 'https://www.youtube.com/watch?v=GPwhr4lXWCU&ab_channel=RicardoZhang',
-            title: 'Marvel',
+            title: 'Minesweeper Game',
             demo: 'https: //www.youtube.com/watch?v=GPwhr4lXWCU&ab_channel=RicardoZhang',
             technologies: ['Java'],
             description: "Minesweeper game.",
@@ -42,7 +42,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/snookme.png',
             link: 'https://www.youtube.com/watch?v=t7aoR9PunpA&t=1s&ab_channel=RicardoZhang',
-            title: 'Master Password',
+            title: 'SnookMe Interactive pool game training system',
             demo: 'https://www.youtube.com/watch?v=t7aoR9PunpA&t=1s&ab_channel=RicardoZhang',
             technologies: ['OpenCv', 'Python'],
             description: "Interactive pool game training system",
