@@ -42,10 +42,10 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/snookme.png',
             link: 'https://www.youtube.com/watch?v=t7aoR9PunpA&t=1s&ab_channel=RicardoZhang',
-            title: 'SnookMe Interactive pool game training system',
+            title: 'SnookMe',
             demo: 'https://www.youtube.com/watch?v=t7aoR9PunpA&t=1s&ab_channel=RicardoZhang',
-            technologies: ['OpenCv', 'Python'],
-            description: "Interactive pool game training system",
+            technologies: ['OpenCV', 'Python'],
+            description: "SnookMe is an interactive pool game training system",
             categories: ['featured', 'security']
         },
 
