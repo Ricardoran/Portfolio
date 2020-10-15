@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             title: 'Minesweeper Game',
             demo: 'https://www.youtube.com/watch?v=GPwhr4lXWCU&ab_channel=RicardoZhang',
             technologies: ['Java'],
-            description: "Minesweeper game.",
+            description: "This is a grid-based minesweeper game, users can flip, guess or question grid to get instant feedback.",
             categories: ['featured', 'native']
         },
 
