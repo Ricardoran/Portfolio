@@ -33,7 +33,7 @@ let render_projects = (slug) => {
             image: 'assets/images/minesweeper.png',
             link: 'https://www.youtube.com/watch?v=GPwhr4lXWCU&ab_channel=RicardoZhang',
             title: 'Minesweeper Game',
-            demo: 'https: //www.youtube.com/watch?v=GPwhr4lXWCU&ab_channel=RicardoZhang',
+            demo: 'https://www.youtube.com/watch?v=GPwhr4lXWCU&ab_channel=RicardoZhang',
             technologies: ['Java'],
             description: "Minesweeper game.",
             categories: ['featured', 'native']
